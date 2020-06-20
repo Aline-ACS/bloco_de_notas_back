@@ -1,0 +1,17 @@
+{
+  "name": "bloco_de_notas_back",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Aline-ACS/bloco_de_notas_back.git",
+  "author": "Aline-Acs <aline_capoani@hotmail.com>",
+  "license": "MIT",  
+ "scripts": { 
+  "server-dev": "nodemon index.js"
+},
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
